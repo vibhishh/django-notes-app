@@ -13,7 +13,7 @@ def getRoutes(request):
             'Endpoint': '/notes/',
             'method': 'GET',
             'body': None,
-            'description': 'Returns an array of notes'
+            'description': 'Mradul Singh Add Your Notes Here: '
         },
         {
             'Endpoint': '/notes/id',
